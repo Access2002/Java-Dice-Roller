@@ -1,6 +1,6 @@
 # Java-Dice-Roller
 
-#his is a simple java dice roller
+This is a simple java dice roller
 
 It takes in an input for how many dice you'd like to run
 
